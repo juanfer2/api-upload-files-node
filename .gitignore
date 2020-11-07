@@ -1,0 +1,9 @@
+/node_modules
+yarn-error.log
+
+#logs
+/src/logs/*
+
+#temporalfiles
+/src/uploads/files/*
+/src/uploads/images/*
